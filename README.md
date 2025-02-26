@@ -2,6 +2,7 @@
 
 ## Giới thiệu
 SRTConventer là công cụ giúp bạn chuyển đổi phụ đề SRT thành âm thanh và dịch phụ đề sang tiếng Việt một cách tự động. Công cụ hỗ trợ các ngôn ngữ khác nhau và cho phép bạn tùy chỉnh giọng đọc, tốc độ, cũng như định dạng âm thanh đầu ra.
+
 ![416749010-6a043bb9-4ded-40f7-ab8d-d56cbdae4cea](https://github.com/user-attachments/assets/cf5cda14-4af0-444d-8325-db0dddfbb7dc)
 ![416749034-b82ae21b-10f0-4a0d-866d-2fcc3e5ceea6](https://github.com/user-attachments/assets/ae0cd891-c695-4ec8-bdc4-404a745ee6c2)
 
