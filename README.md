@@ -9,7 +9,7 @@ SRTConventer là công cụ giúp bạn chuyển đổi phụ đề SRT thành �
 ## Cài đặt
 1. Tải file MSI từ kho lưu trữ GitHub này.
 2. Mở file MSI và làm theo các bước cài đặt.
-
+3. Lấy api gemini AI để sử dụng dịch
 ## Hướng dẫn sử dụng
 ### Bước 1: Mở công cụ
 Sau khi cài đặt, mở ứng dụng **SRTConventer**.
